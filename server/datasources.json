@@ -1,0 +1,13 @@
+{
+  "db": {
+    "host": "mongodb+srv://cluster0.hltmx.mongodb.net/api_film",
+    "port": 47052,
+    "url": "mongodb+srv://newUser:api_film1@cluster0.hltmx.mongodb.net/api_film",
+    "database": "api_film",
+    "password": "api_film1",
+    "name": "db",
+    "user": "newUser",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
